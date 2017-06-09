@@ -1,0 +1,39 @@
+<?php
+// Fichero de idioma español.
+define('LABEL_INICIO','HOME');
+define('LABEL_GALERIA','GALLERY');
+define('LABEL_MENU','MENU');
+define('LABEL_NOSOTROS','ABOUT US');
+define('LABEL_RESERVAS','BOOKING REQUEST');
+define('LABEL_CONTACTO','CONTACT');
+define('LABEL_TITLE_NOSOTROS','ABOUT US');
+define('LABEL_TITLE_GALERIA','GALLERY');
+define('LABEL_TITLE_CONTACTO','CONTACT');
+define('LABEL_TITLE_MENU','OUR MENU');
+define('LABEL_GALLERY_FOTOS','PICTURES');
+define('LABEL_GALLERY_VIDEOS','VIDEOS');
+define('LABEL_MENU_GASTRONOMIA','GASTRONOMY');
+define('LABEL_MENU_COCTELERIA','COCKTAIL');
+define('LABEL_MENU_VINOS','WINES');
+define('LABEL_ENVIAR','SEND');
+define('LABEL_INFO_CONTACT_1','Central Avenue, Building Amador Theater');
+define('LABEL_INFO_CONTACT_2','Old Town - San Felipe');
+define('LABEL_INFO_CONTACT_HORARIO','OPENING HOURS');
+define('LABEL_INFO_CONTACT_HORARIO_MARTES','TUESDAY');
+define('LABEL_INFO_CONTACT_HORARIO_SABADO','SATURDAY');
+define('LABEL_INFO_CONTACT_COMENTARIOS','Comments');
+define('LABEL_INFO_CONTACT_SELECCIONE','Select an option');
+define('LABEL_INFO_CONTACT_INFORMACION','information');
+define('LABEL_INFO_CONTACT_COMENTARIOS','Comments');
+define('LABEL_INFO_CONTACT_PRIVADOS','private events');
+define('LABEL_INFO_CONTACT_MENSAJE','Message');
+define('LABEL_RESERVAS','BOOKING REQUEST');
+define('LABEL_RESERVAS_DATOS_PERSONALES','Personal information');
+define('LABEL_RESERVAS_NOMBRE','Name');
+define('LABEL_RESERVAS_APELLIDO','Last name');
+define('LABEL_RESERVAS_CORREO','Email');
+define('LABEL_RESERVAS_CELULAR','Cell phone');
+define('LABEL_RESERVAS_FECHA','Date');
+define('LABEL_RESERVAS_HORA_RESERVA','Time booking');
+define('LABEL_RESERVAS_PERSONAS','People');
+?>
